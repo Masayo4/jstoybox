@@ -1,0 +1,15 @@
+#font1{
+  font-family: 'DM Serif Display', serif;
+  /*フォント1を変える*/
+}
+
+#font2{
+  font-family: 'Barriecito', cursive;
+}
+
+/*
+https://fonts.google.com/
+で使用可能, フォントをいじりたいときにはこちらを参照すると簡単
+https://saruwakakun.com/html-css/basic/google-fonts
+使い方まとめ
+*/
