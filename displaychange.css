@@ -1,0 +1,21 @@
+body{
+  font-size:20px;
+  color: white;
+  /*これはbody全体にかける*/
+}
+
+#red{
+  background-color: red;
+  display: block;
+  /*display:blockで表示, noneで非表示*/
+}
+#yellow{
+  background-color: yellow;
+  color: black;
+  display: none;
+  /*divごとに色を変えることも可能*/
+}
+#blue{
+  background-color: blue;
+  display: none;
+}
